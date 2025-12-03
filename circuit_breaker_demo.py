@@ -1,7 +1,3 @@
-"""
-Simple SADAD resilience demo: circuit breaker wrapper around a fake bank API call.
-This code is for educational purposes only.
-"""
 
 import time
 import requests
